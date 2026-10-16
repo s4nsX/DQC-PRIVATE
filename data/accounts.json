@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T17:07:09.809Z",
+  "updatedAt": "2026-10-16T17:10:03.595Z",
   "count": 1,
   "accounts": [
     {
@@ -8,12 +8,12 @@
       "username": "",
       "password": "-",
       "logVia": "Moonton",
-      "lastLogin": "",
+      "lastLogin": "2026-10-16T17:10:03.594Z",
       "level": 1,
       "rank": "Warrior",
       "catatan": "Blm leveling",
       "createdAt": "2026-10-16T17:07:09.802Z",
-      "updatedAt": "2026-10-16T17:07:09.802Z"
+      "updatedAt": "2026-10-16T17:10:03.594Z"
     }
   ]
 }
