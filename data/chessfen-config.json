@@ -30,6 +30,6 @@
   "spoofTitle": "GM",
   "randomElo": true,
   "spoofElo": 1234,
-  "spoofEloMin": 2500,
+  "spoofEloMin": 2125,
   "spoofEloMax": 2600
 }
