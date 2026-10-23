@@ -31,5 +31,5 @@
   "randomElo": true,
   "spoofElo": 1234,
   "spoofEloMin": 2500,
-  "spoofEloMax": 2650
+  "spoofEloMax": 2600
 }
