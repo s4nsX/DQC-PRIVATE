@@ -7,7 +7,7 @@
   "smartTiming": true,
   "panicMode": true,
   "panicThresholdSec": 25,
-  "panicDelayMs": 200,
+  "panicDelayMs": 350,
   "openingBook": true,
   "openingBookMaxMoves": 16,
   "whiteOpening": "any",
