@@ -9,7 +9,7 @@
   "panicThresholdSec": 8,
   "panicDelayMs": 50,
   "openingBook": true,
-  "openingBookMaxMoves": 4,
+  "openingBookMaxMoves": 20,
   "whiteOpening": "any",
   "blackOpening": "any",
   "autoResign": false,
