@@ -1,10 +1,10 @@
 {
-  "gamesPlayed": 0,
-  "movesPlayed": 1,
-  "avgMoveTimeMs": 981,
+  "gamesPlayed": 1,
+  "movesPlayed": 2,
+  "avgMoveTimeMs": 525,
   "wins": 0,
   "losses": 0,
   "draws": 0,
-  "sessionMinutes": 1,
-  "updatedAt": "2026-10-23T06:05:14.577Z"
+  "sessionMinutes": 0,
+  "updatedAt": "2026-10-23T06:06:38.303Z"
 }
