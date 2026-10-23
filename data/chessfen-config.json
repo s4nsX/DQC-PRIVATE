@@ -28,7 +28,7 @@
   "maxDelay": 4800,
   "spoofEnabled": true,
   "spoofTitle": "GM",
-  "randomElo": false,
+  "randomElo": true,
   "spoofElo": 2580,
   "spoofEloMin": 2500,
   "spoofEloMax": 2650
