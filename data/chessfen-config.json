@@ -20,7 +20,7 @@
   "timeWarningSec": 30,
   "pauseOnBlur": true,
   "takebackMode": "accept",
-  "adaptiveSkill": false,
+  "adaptiveSkill": true,
   "skill": 1,
   "baseDelay": 2200,
   "stdDev": 650,
