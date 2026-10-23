@@ -8,7 +8,7 @@
   "openingBook": true,
   "openingBookMaxMoves": 12,
   "skill": 1,
-  "baseDelay": 2300,
+  "baseDelay": 800,
   "stdDev": 650,
   "minDelay": 400,
   "maxDelay": 4800,
