@@ -22,7 +22,7 @@
   "takebackMode": "accept",
   "adaptiveSkill": true,
   "skill": 1,
-  "baseDelay": 2350,
+  "baseDelay": 2250,
   "stdDev": 200,
   "minDelay": 250,
   "maxDelay": 1500,
