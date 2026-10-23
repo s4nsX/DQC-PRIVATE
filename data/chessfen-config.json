@@ -17,7 +17,7 @@
   "confidenceEnabled": false,
   "confidenceThreshold": -450,
   "timeWarning": true,
-  "timeWarningSec": 80,
+  "timeWarningSec": 70,
   "pauseOnBlur": true,
   "takebackMode": "accept",
   "adaptiveSkill": true,
