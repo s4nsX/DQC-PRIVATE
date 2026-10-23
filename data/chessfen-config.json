@@ -6,7 +6,7 @@
   "drawAvoidance": true,
   "smartTiming": true,
   "panicMode": true,
-  "panicThresholdSec": 20,
+  "panicThresholdSec": 26,
   "panicDelayMs": 150,
   "openingBook": true,
   "openingBookMaxMoves": 14,
