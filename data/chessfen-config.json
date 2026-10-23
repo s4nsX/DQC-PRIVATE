@@ -21,7 +21,7 @@
   "pauseOnBlur": true,
   "takebackMode": "accept",
   "adaptiveSkill": true,
-  "skill": 1,
+  "skill": 2,
   "baseDelay": 500,
   "stdDev": 250,
   "minDelay": 250,
