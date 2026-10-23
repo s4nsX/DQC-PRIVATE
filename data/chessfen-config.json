@@ -2,7 +2,7 @@
   "depth": 17,
   "targetElo": 1600,
   "autoAnalyze": true,
-  "autoMove": false,
+  "autoMove": true,
   "drawAvoidance": true,
   "skill": 1,
   "baseDelay": 700,
