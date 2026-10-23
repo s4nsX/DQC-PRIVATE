@@ -15,7 +15,7 @@
   "autoResign": false,
   "autoResignThreshold": -600,
   "confidenceEnabled": false,
-  "confidenceThreshold": -850,
+  "confidenceThreshold": -500,
   "timeWarning": true,
   "timeWarningSec": 60,
   "pauseOnBlur": true,
