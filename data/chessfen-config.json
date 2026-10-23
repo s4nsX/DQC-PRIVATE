@@ -13,7 +13,7 @@
   "whiteOpening": "any",
   "blackOpening": "any",
   "autoResign": false,
-  "autoResignThreshold": -800,
+  "autoResignThreshold": -700,
   "confidenceEnabled": false,
   "confidenceThreshold": -500,
   "timeWarning": true,
