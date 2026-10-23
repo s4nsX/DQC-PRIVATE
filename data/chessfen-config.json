@@ -6,9 +6,9 @@
   "drawAvoidance": true,
   "skill": 1,
   "baseDelay": 700,
-  "stdDev": 250,
+  "stdDev": 650,
   "minDelay": 400,
-  "maxDelay": 1800,
+  "maxDelay": 4800,
   "spoofEnabled": true,
   "spoofTitle": "GM",
   "spoofElo": 2580
