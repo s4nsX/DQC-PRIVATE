@@ -23,7 +23,7 @@
   "adaptiveSkill": true,
   "skill": 1,
   "baseDelay": 2150,
-  "stdDev": 250,
+  "stdDev": 200,
   "minDelay": 250,
   "maxDelay": 1500,
   "spoofEnabled": true,
