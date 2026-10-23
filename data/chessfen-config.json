@@ -19,7 +19,7 @@
   "timeWarning": true,
   "timeWarningSec": 30,
   "pauseOnBlur": true,
-  "takebackMode": "ask",
+  "takebackMode": "accept",
   "adaptiveSkill": false,
   "skill": 1,
   "baseDelay": 2200,
