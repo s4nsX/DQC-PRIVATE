@@ -1,0 +1,15 @@
+{
+  "depth": 17,
+  "targetElo": 1600,
+  "autoAnalyze": true,
+  "autoMove": false,
+  "drawAvoidance": true,
+  "skill": 1,
+  "baseDelay": 700,
+  "stdDev": 250,
+  "minDelay": 400,
+  "maxDelay": 1800,
+  "spoofEnabled": true,
+  "spoofTitle": "GM",
+  "spoofElo": 2580
+}
