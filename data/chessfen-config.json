@@ -1,6 +1,6 @@
 {
   "depth": 22,
-  "targetElo": 2000,
+  "targetElo": 2250,
   "autoAnalyze": true,
   "autoMove": false,
   "drawAvoidance": true,
