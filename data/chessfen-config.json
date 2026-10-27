@@ -2,7 +2,7 @@
   "depth": 22,
   "targetElo": 2000,
   "autoAnalyze": true,
-  "autoMove": true,
+  "autoMove": false,
   "drawAvoidance": true,
   "smartTiming": true,
   "panicMode": true,
